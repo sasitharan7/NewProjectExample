@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0EDF-FD28
+
+ Directory of C:\Users\sasit\Desktop\another
+
+04/27/2022  08:40 AM    <DIR>          .
+04/27/2022  08:40 AM    <DIR>          ..
+04/27/2022  08:40 AM                 0 test.txt
+04/27/2022  08:40 AM                 0 test1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  584,906,772,480 bytes free
